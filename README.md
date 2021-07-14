@@ -17,6 +17,8 @@
    * データベースの保存場所に関する記事. これに沿ってAppDateを見るとkey-valueのplistが保存されていることが確認できる.
 * [Is there any limit in storing values in NSUserDefaults?](https://stackoverflow.com/questions/7510123/is-there-any-limit-in-storing-values-in-nsuserdefaults)
    * データベースに保存できるデータサイズについての議論.基本的に制限は無さそうだが, 膨大だとアプリのパフォーマンスに影響がでそうである程度の目安はあるようだ. 
+* [How To: Working with Plist in Swift](https://learnappmaking.com/plist-property-list-swift-how-to/)
+   * .plistについて説明している. 
 
 ## Reference
 [1][Apple-UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults) 
