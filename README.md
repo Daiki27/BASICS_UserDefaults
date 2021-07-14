@@ -11,7 +11,7 @@
    * デフォルト・オブジェクトは、プロパティ・リストでなければなりません。つまり、NSData、NSString、NSNumber、NSDate、NSArray、または NSDictionary のインスタンス (またはコレクションの場合は、これらのインスタンスの組み合わせ) でなければなりません。 他のタイプのオブジェクトを保存したい場合は、通常、NSDataのインスタンスを作成するようにアーカイブする必要があります。[1]
    * UserDefaults storage is limited to the so-called property-list data types [1]: Data, String, Date, Bool, Int, Double, Float, Array, Dictionary and URL (the only non-property-list-type). It is also possible to store arbitrary objects by encoding them into a Data object first.[2]
    
-## 細かい話.
+## 細かい話
 
 * [Where are the standard UserDefaults stored?](https://crystalminds.medium.com/where-are-the-standard-userdefaults-stored-d02bf74854ff)
    * データベースの保存場所に関する記事. これに沿ってAppDateを見るとkey-valueのplistが保存されていることが確認できる.
