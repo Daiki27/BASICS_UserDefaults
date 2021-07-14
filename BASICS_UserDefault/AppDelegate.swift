@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  BASICS_UserDefaults
+//  BASICS_UserDefault
 //
-//  Created by 樋口大樹 on 2021/06/07.
+//  Created by 樋口大樹 on 2021/07/14.
 //
 
 import UIKit
