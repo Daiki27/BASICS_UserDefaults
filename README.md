@@ -20,6 +20,12 @@
 * [How To: Working with Plist in Swift](https://learnappmaking.com/plist-property-list-swift-how-to/)
    * .plistについて説明している. 
 
+## 実行結果
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/27540739/125633939-b5b1cfe9-fc93-4dbb-a125-e8e666b5e831.png" />
+</p>
+
 ## Reference
 [1][Apple-UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults) 
 [2][The Advanced Guide to UserDefaults in Swift](https://www.vadimbulavin.com/advanced-guide-to-userdefaults-in-swift/)
